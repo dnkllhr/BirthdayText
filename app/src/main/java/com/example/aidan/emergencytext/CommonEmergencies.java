@@ -21,7 +21,7 @@ public class CommonEmergencies extends AppCompatActivity {
 
         //now we can make the code for sending a message
         SmsManager smsManager = SmsManager.getDefault();
-        smsManager.sendTextMessage("8132302188",null, "Hello, this is a test.", null, null);
+        smsManager.sendTextMessage("8132302188",null, "Hello World.", null, null);
 
     }
 }
