@@ -1,4 +1,4 @@
-package com.example.aidan.emergencytext;
+package com.example.aidan.birthdaytext;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
