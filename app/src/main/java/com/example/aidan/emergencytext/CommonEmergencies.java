@@ -10,4 +10,8 @@ public class CommonEmergencies extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_common_emergencies);
     }
+
+    private void test(){
+        System.out.println("this is a test");
+    }
 }
